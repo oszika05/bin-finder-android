@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bin Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="server_client_id">720393882245-qnqpktn1iqrdoenbhq307bskhvmtkjhl.apps.googleusercontent.com</string>
+    <string name="pick_type">Válassz típust</string>
+    <string name="click_to_report">Klikkelj a rossz helyszín jelentéséhez</string>
 </resources>
